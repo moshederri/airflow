@@ -1389,7 +1389,7 @@
                     ]
                 },
                 "podAnnotations": {
-                    "description": "Annotations to add to the worker pods.",
+                    "description": "Annotations to add to the redis pods.",
                     "type": "object",
                     "default": {},
                     "additionalProperties": {
